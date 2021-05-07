@@ -28,8 +28,7 @@ public class UserInterface {
                         DijkstraShortestPath.main();
        
                     case 2:
-             
-                        //implement stopfind class part two
+                      StopSearchPartTwo.main();
                         break;
                     case 3:
                        ArrivalTime.main();
